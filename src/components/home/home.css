@@ -1,0 +1,28 @@
+.dedos{
+    transform: rotate(-10deg);
+}
+.fotoTeam{
+}
+.frase{
+}
+.dedicacion{
+        transform: rotate(5deg);
+    }
+.habiidad{
+    transform: rotate(-5deg) scale(1.2);
+}
+.pasion{
+        transform: rotate(-10deg) translateY(20px) scale(.8);
+    }
+.trebolOjo{
+    transform: rotate(20deg);
+}
+.trebol{
+    transform: rotate(-10deg);
+}
+.pato{
+    transform: rotate(10deg);
+}
+.logo{
+    transform: scale(.5);
+}
